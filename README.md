@@ -22,6 +22,6 @@ Skapa ett kort som lyfts upp, snurrar runt 360 grader och sen läggs ner igen.
 
 ### The Cube
 
-Gör en kub med 6 sidor. Varje sida ska ha en text samt semitransparent bakgrund. Avslutade kuben med att lägga på en animering som får den att snurra runt lite coolt.
+Gör en kub med 6 sidor. Varje sida ska ha en text samt semitransparent bakgrund. Avsluta kuben med att lägga på en animering som får den att snurra runt lite coolt.
 
 ![screen](/övningar/09_cube/cube.gif)

@@ -11,13 +11,14 @@ article {
     width: 20rem;
     height: 20rem;
     position: relative;
-    animation: spin 10s linear infinite;
-    transform-style: preserve-3d;
+    
+    /* Fortsätt */
+
 }
 
+/* Skapa din animation här */
 @keyframes spin {
-      0% { transform: rotateY(0deg) rotateX(0); }
-    100% { transform: rotateY(360deg) rotateX(360deg); }
+
 }
 
 article aside {
@@ -30,7 +31,76 @@ article aside {
     font-size: 2rem;
 }
 
+/* Längre ner hittar du stylingen för varje enskild sida av kuben */
+
 article aside.side-1 {
+
+}
+article aside.side-2 {
+
+}
+article aside.side-3 {
+
+}
+article aside.side-4 {
+
+}
+article aside.side-5 {
+
+}
+article aside.side-6 {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* article aside.side-1 {
     background: rgba(255,255,0,.5);
     transform: translate3d(50%,0,0) rotateY(90deg);
 }
@@ -53,4 +123,4 @@ article aside.side-5 {
 article aside.side-6 {
     background: rgba(255, 0, 0, 0.5);
     transform: translate3d(0,0,10rem);
-}
+} */
